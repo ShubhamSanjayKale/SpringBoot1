@@ -10,4 +10,10 @@ public class FirstStsProjectApplication {
 		SpringApplication.run(FirstStsProjectApplication.class, args);
 	}
 
+ //// added by dev2
+public static void main(String[] args) {
+		SpringApplication.run(FirstStsProjectApplication.class, args);
+	}
+
+
 }
